@@ -1,0 +1,1 @@
+the hello.java is used to initalize the hello world and a variable which is 1000
